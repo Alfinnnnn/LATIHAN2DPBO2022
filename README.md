@@ -19,5 +19,5 @@ c++ <br>
 php <br>
 <img src = "https://github.com/Alfinnnnn/LATIHAN2DPBO2022/blob/main/ss/lat2b%20-%20php.png">
 <br/>
-pyton <br>
+python <br>
 <img src = "https://github.com/Alfinnnnn/LATIHAN2DPBO2022/blob/main/ss/lat2b%20-%20py.png">
