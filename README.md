@@ -11,3 +11,5 @@ Pada Latihan2 ini saya membuat kelas Hardware (yang berisi brand dan model) seba
 
 ## ScreenShoot
 <img src = "https://github.com/Alfinnnnn/LATIHAN2DPBO2022/blob/main/ss/lat2a%20-%20java.png">
+
+<img src = "https://github.com/Alfinnnnn/LATIHAN2DPBO2022/blob/main/ss/lat2b%20-%20cpp.png">
